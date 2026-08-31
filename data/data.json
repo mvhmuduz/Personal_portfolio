@@ -1,0 +1,29 @@
+{
+  "profile": {
+    "name": "Mahmud Umar Zubairu",
+    "registration_number": "U19CO1005",
+    "profession": "Future Computer Engineer",
+    "university": "Ahmadu Bello University, Zaria"
+  },
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "Responsive Web Design",
+    "Computer Engineering",
+    "Problem Solving"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Water Level Monitoring and Leakage Detection System",
+      "description": "A prototype concept using ESP32, flow sensors, an ultrasonic sensor, LCD display and a buzzer to monitor water level and identify abnormal flow associated with leakage.",
+      "category": "Embedded Systems"
+    },
+    {
+      "id": 2,
+      "title": "Personal Portfolio Website",
+      "description": "A responsive multi-page portfolio built with semantic HTML5, CSS3 and JSON without JavaScript.",
+      "category": "Web Development"
+    }
+  ]
+}
